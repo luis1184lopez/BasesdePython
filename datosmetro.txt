@@ -1,0 +1,4 @@
+Estación,Enero,Febrero,Marzo
+Buenos Aires,100,200,300
+Bellas Artes,400,500,600
+Hidalgo, 700,800,900
